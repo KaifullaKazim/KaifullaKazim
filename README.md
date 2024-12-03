@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaifullaKazim?tab=repositories](https://github.com/KaifullaKazim?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/KaifullaKazim?tab=repositories)
 
 - 📫 How to reach me **kaifullakazim@gmail.com**
 
