@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kaifullakazim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lIMXiuOmt4mAqksK4kGzZAFQWmEQ3oIs/view?usp=sharing](https://drive.google.com/file/d/1lIMXiuOmt4mAqksK4kGzZAFQWmEQ3oIs/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/107p_g6k217dqdaIJ5j2kSGNNKWzf736P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
