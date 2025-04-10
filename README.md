@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kaifullakazim@gmail.com**
 
-- 📄 Know about my experiences [**Mohammed Kaifulla Kazim Resume**](https://drive.google.com/file/d/1dy-UVRJfJN-kef_eBXo9A9bS-xKxi_bo/view?usp=sharing)
+- 📄 Know about my experiences [**Mohammed Kaifulla Kazim Resume**](https://drive.google.com/file/d/1PwxNOnY27qOGA7D984ZYFP67np9dmzUM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
