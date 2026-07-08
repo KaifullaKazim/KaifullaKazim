@@ -1,203 +1,154 @@
-<h1 align="center">Hi 👋, I'm Mohammed Kaifulla Kazim</h1>
 
-<h3 align="center">
-SAP Associate Consultant | SAP BTP | SAP S/4HANA | AI & Automation | Full Stack Developer
-</h3>
+# <div align="center">👋 Hi, I'm Mohammed Kaifulla Kazim</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kaifullakazim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github.com/KaifullaKazim.png" width="220" style="border-radius:50%" alt="Mohammed Kaifulla Kazim"/>
-</p>
+### SAP Associate Consultant • SAP BTP • SAP S/4HANA • Generative AI • AI Automation • Full Stack Developer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0FAAFF&center=true&vCenter=true&width=900&lines=SAP+Associate+Consultant;Building+Enterprise+AI+Solutions;SAP+BTP+Developer;RAG+%7C+LLMs+%7C+AI+Agents;Always+Learning+Something+New+🚀" />
 
-## 👨‍💻 About Me
+<br>
 
-I'm an **SAP Associate Consultant** passionate about building enterprise solutions using **SAP BTP**, **SAP S/4HANA**, **Artificial Intelligence**, and **Full Stack Development**.
+<img src="https://komarev.com/ghpvc/?username=KaifullaKazim&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/KaifullaKazim?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/KaifullaKazim?affiliations=OWNER&style=for-the-badge"/>
 
-Currently working at **Bristlecone (Client: SAP)** where I build enterprise applications, AI-powered automation solutions, and SAP BTP applications.
-
-I enjoy solving real-world business problems through automation, cloud technologies, and AI.
+</div>
 
 ---
 
-## 🚀 Current Focus
+# 💫 About Me
 
-- 🌱 SAP Generative AI Developer Certification
-- 🤖 AI Agents using Microsoft Copilot Studio
-- ☁ SAP Business Technology Platform (BTP)
-- 💡 Retrieval-Augmented Generation (RAG)
-- 🧠 Large Language Models (LLMs)
-- ⚡ Enterprise Automation
-- 📊 SAP RAP & OData Development
+I'm an **SAP Associate Consultant at Bristlecone (Client: SAP)** passionate about building enterprise software, AI-powered automation, and cloud-native applications.
 
----
+My interests lie at the intersection of **SAP**, **Artificial Intelligence**, **Enterprise Automation**, and **Full Stack Engineering**.
 
-## 💼 Experience
+### 🚀 Currently Exploring
 
-- SAP Associate Consultant @ **Bristlecone**
-- SAP BTP Development
-- SAP S/4HANA
+- SAP BTP
 - SAP RAP
-- CDS Views
-- OData Services
+- SAP S/4HANA
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
 - Microsoft Copilot Studio
 - Power Automate
-- AI Agent Development
+- Enterprise AI Agents
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 Professional Highlights
 
-### 🤖 SAP BTP Knowledge Assistant (RAG)
-Built a Retrieval-Augmented Generation assistant using Python, TF-IDF and Groq LLM for SAP BTP documentation.
-
-### 📊 Product Tracking Dashboard
-Enterprise SAP BTP dashboard for tracking feature development, release timelines and reporting.
-
-### 🤖 AI FAQ Agent
-AI-powered HR assistant developed using Microsoft Copilot Studio and Power Automate.
-
-### 🧠 SilentCare AI
-Published research project leveraging AI/NLP to assist non-verbal communication.
+| Achievement | Impact |
+|-------------|-------:|
+| 📊 Product Tracking Dashboard | **90% reduction** in manual reporting |
+| 🤖 AI FAQ Agent | **89% reduction** in HR response effort |
+| 🧠 SilentCare AI | Published AI/NLP Research |
+| ☁️ SAP BTP | Enterprise Dashboard Development |
+| ⚙️ SAP ABAP | RAP, CDS Views, OData Services |
 
 ---
 
-## 🛠 Tech Stack
+# 🗂 Featured Projects
 
-### SAP Technologies
+## 🤖 SAP BTP Knowledge Assistant
+A Retrieval-Augmented Generation (RAG) assistant built using Python, TF-IDF and Groq to answer SAP BTP questions from a custom knowledge base.
 
-<p>
-<img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAP_S4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/ABAP-009999?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAP-0FAAFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CDS_Views-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OData-green?style=for-the-badge"/>
-</p>
+**Tech:** Python • Groq • RAG • TF-IDF • Prompt Engineering
 
 ---
 
-### AI & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Generative_AI-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft_Copilot_Studio-742774?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge"/>
-</p>
+## 📊 Product Tracking Dashboard
+Enterprise dashboard built on SAP BTP for monitoring releases, feature progress and reporting.
 
 ---
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,dart"/>
-</p>
+## 🤖 AI FAQ Agent
+Enterprise AI assistant developed using Microsoft Copilot Studio and Power Automate.
 
 ---
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,flutter"/>
-</p>
+## 🧠 SilentCare AI
+Published research focused on AI-driven assistive communication using NLP and Machine Learning.
 
 ---
 
-### Backend
+# 💻 Tech Stack
 
-<p>
+## SAP
+
+`SAP BTP` • `SAP S/4HANA` • `ABAP` • `RAP` • `CDS Views` • `OData`
+
+## AI
+
+`Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Copilot Studio` • `Power Automate`
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,dart"/>
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,flutter"/>
+
+## Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
 
----
+## Databases
 
-### Databases
-
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
-</p>
+
+## Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode"/>
 
 ---
 
-### Cloud & DevOps
+# 📜 Certifications
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KaifullaKazim&theme=algolia&row=1&column=7"/>
-
-</p>
+- AWS Academy Cloud Foundations
+- SAP Generative AI Developer *(In Progress)*
+- AI Research Publication – SilentCare AI
 
 ---
 
-## 📈 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KaifullaKazim&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaifullaKazim&theme=tokyonight"/>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KaifullaKazim&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=KaifullaKazim&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaifullaKazim&layout=compact&theme=tokyonight"/>
-
 </p>
-
----
-
-## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/mohammed-kaifulla-kazim-65375b232">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:kaifullakazim@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/KaifullaKazim">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://my-portfolio-website-kaifullakazims-projects.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://leetcode.com/kaifullakazim">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaifullaKazim&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📄 Resume
+# 🌍 Connect With Me
 
-📥 **Resume:**  
-https://drive.google.com/file/d/1K3UL2_a7PmZTHgbpcWJXC4MZu1bajKeX/view
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-kaifulla-kazim-65375b232)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://my-portfolio-website-kaifullakazims-projects.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kaifullakazim)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaifullakazim@gmail.com)
 
 ---
 
-## 💡 Quote
+# 💡 Philosophy
 
-> "Technology becomes valuable when it solves real business problems."
+> **"Technology becomes valuable when it solves real business problems."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and exploring my repositories.
+
+</div>
+
