@@ -127,8 +127,8 @@ Published research focused on AI-driven assistive communication using NLP and Ma
 
 # 📜 Certifications
 
+- SAP Generative AI Developer - June 2026
 - AWS Academy Cloud Foundations
-- SAP Generative AI Developer *(In Progress)*
 - AI Research Publication – SilentCare AI
 
 ---
