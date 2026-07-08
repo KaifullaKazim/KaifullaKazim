@@ -80,6 +80,15 @@ Published research focused on AI-driven assistive communication using NLP and Ma
 
 ## SAP
 
+<p>
+<img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP_S4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/ABAP-009999?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAP-0FAAFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CDS_Views-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OData-green?style=for-the-badge"/>
+</p>
+
 `SAP BTP` • `SAP S/4HANA` • `ABAP` • `RAP` • `CDS Views` • `OData`
 
 ## AI
