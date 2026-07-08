@@ -1,31 +1,203 @@
 <h1 align="center">Hi 👋, I'm Mohammed Kaifulla Kazim</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifullakazim&label=Profile%20views&color=0e75b6&style=flat" alt="kaifullakazim" /> </p>
+<h3 align="center">
+SAP Associate Consultant | SAP BTP | SAP S/4HANA | AI & Automation | Full Stack Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaifullakazim" alt="kaifullakazim" /></a> </p>
-
-- 🌱 I’m currently learning **ReactJs**
-
-- 👨‍💻 All of my projects are available at [**GitHub Repositories**](https://github.com/KaifullaKazim?tab=repositories)
-
-- 📫 How to reach me **kaifullakazim@gmail.com**
-
-- 📄 Know about my experiences [**Mohammed Kaifulla Kazim Resume**](https://drive.google.com/file/d/1K3UL2_a7PmZTHgbpcWJXC4MZu1bajKeX/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-kaifulla-kazim-65375b232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-kaifulla-kazim-65375b232" height="50" width="75" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/iamkaifulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamkaifulla" height="75" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/kaifullakazim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaifullakazim" height="75" width="50" /></a>
-<a href="https://my-portfolio-website-kaifullakazims-projects.vercel.app/" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif" alt="kaifullakazim" height="100" width="175" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kaifullakazim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/>&nbsp;&nbsp;&nbsp; </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a750d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="75" height="75"/> </a>&nbsp;&nbsp;&nbsp; </p>
+<p align="center">
+<img src="https://github.com/KaifullaKazim.png" width="220" style="border-radius:50%" alt="Mohammed Kaifulla Kazim"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaifullakazim&show_icons=true&locale=en&layout=compact" alt="kaifullakazim" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaifullakazim&show_icons=true&locale=en" alt="kaifullakazim" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaifullakazim&" alt="kaifullakazim" /></p>
+I'm an **SAP Associate Consultant** passionate about building enterprise solutions using **SAP BTP**, **SAP S/4HANA**, **Artificial Intelligence**, and **Full Stack Development**.
+
+Currently working at **Bristlecone (Client: SAP)** where I build enterprise applications, AI-powered automation solutions, and SAP BTP applications.
+
+I enjoy solving real-world business problems through automation, cloud technologies, and AI.
+
+---
+
+## 🚀 Current Focus
+
+- 🌱 SAP Generative AI Developer Certification
+- 🤖 AI Agents using Microsoft Copilot Studio
+- ☁ SAP Business Technology Platform (BTP)
+- 💡 Retrieval-Augmented Generation (RAG)
+- 🧠 Large Language Models (LLMs)
+- ⚡ Enterprise Automation
+- 📊 SAP RAP & OData Development
+
+---
+
+## 💼 Experience
+
+- SAP Associate Consultant @ **Bristlecone**
+- SAP BTP Development
+- SAP S/4HANA
+- SAP RAP
+- CDS Views
+- OData Services
+- Microsoft Copilot Studio
+- Power Automate
+- AI Agent Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 SAP BTP Knowledge Assistant (RAG)
+Built a Retrieval-Augmented Generation assistant using Python, TF-IDF and Groq LLM for SAP BTP documentation.
+
+### 📊 Product Tracking Dashboard
+Enterprise SAP BTP dashboard for tracking feature development, release timelines and reporting.
+
+### 🤖 AI FAQ Agent
+AI-powered HR assistant developed using Microsoft Copilot Studio and Power Automate.
+
+### 🧠 SilentCare AI
+Published research project leveraging AI/NLP to assist non-verbal communication.
+
+---
+
+## 🛠 Tech Stack
+
+### SAP Technologies
+
+<p>
+<img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP_S4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/ABAP-009999?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAP-0FAAFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CDS_Views-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OData-green?style=for-the-badge"/>
+</p>
+
+---
+
+### AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Generative_AI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft_Copilot_Studio-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge"/>
+</p>
+
+---
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,dart"/>
+</p>
+
+---
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,flutter"/>
+</p>
+
+---
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+---
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KaifullaKazim&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KaifullaKazim&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaifullaKazim&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaifullaKazim&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mohammed-kaifulla-kazim-65375b232">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:kaifullakazim@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KaifullaKazim">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://my-portfolio-website-kaifullakazims-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://leetcode.com/kaifullakazim">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📄 Resume
+
+📥 **Resume:**  
+https://drive.google.com/file/d/1K3UL2_a7PmZTHgbpcWJXC4MZu1bajKeX/view
+
+---
+
+## 💡 Quote
+
+> "Technology becomes valuable when it solves real business problems."
