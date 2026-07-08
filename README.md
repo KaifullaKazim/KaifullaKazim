@@ -3,6 +3,10 @@
 
 <div align="center">
 
+<p align="center">
+<img src="https://github.com/KaifullaKazim.png" width="220" style="border-radius:50%" alt="Mohammed Kaifulla Kazim"/>
+</p>
+
 ### SAP Associate Consultant • SAP BTP • SAP S/4HANA • Generative AI • AI Automation • Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0FAAFF&center=true&vCenter=true&width=900&lines=SAP+Associate+Consultant;Building+Enterprise+AI+Solutions;SAP+BTP+Developer;RAG+%7C+LLMs+%7C+AI+Agents;Always+Learning+Something+New+🚀" />
