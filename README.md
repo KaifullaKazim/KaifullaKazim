@@ -89,11 +89,19 @@ Published research focused on AI-driven assistive communication using NLP and Ma
 <img src="https://img.shields.io/badge/OData-green?style=for-the-badge"/>
 </p>
 
-`SAP BTP` • `SAP S/4HANA` • `ABAP` • `RAP` • `CDS Views` • `OData`
 
 ## AI
 
-`Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `Copilot Studio` • `Power Automate`
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Generative_AI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft_Copilot_Studio-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge"/>
+</p>
+
 
 ## Languages
 
